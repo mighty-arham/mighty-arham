@@ -1,0 +1,35 @@
+<!DOCTYPE HTML> 
+
+<head>
+    <title>Home Work</title>
+</head>
+<body>
+    <p>One of my classwork, this seemed to be complex but I did it <em><b>correctly</b></em>, so I'm publishing it for display.
+        <br>It's a table 
+    </p>
+    <table border="1" cellspacing="0">
+        <tr> 
+            <th>Name</th>
+            <th>Info</th>
+            <th>Pictures</th>
+        </tr>
+        <tr>
+            <td>Arham Akhyar</td>
+            <td>Boshila, Mohammadpur
+                <br> 017***
+            </td>
+            <td><a href="https://www.facebook.com/profile.php?id=100094200613677"><img src="c:\Users\Arham\Downloads\DSC07953.JPG" alt="Picture of user" width="200" height="300"></a></td>
+        </tr>
+        <tr>
+            <td rowspan="2">Daniel radcliffe</td>
+            <td>Street lane, London</td>
+            <td rowspan="2"><a href="https://www.wizardingworld.com/"><img src="e:\Harry Potter\daniel radcliffe.jpg" width="200" height="300"></a></td>
+        </tr>
+        <tr>
+            <td>019**</td>
+        </tr>
+    </table>
+    <p>Description:
+        <br>The image is <em><b>clicable</b></em>, it will redirect to a website.
+    </p>
+</body>
